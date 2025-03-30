@@ -4,11 +4,11 @@ A special Valentine's Day app that lets you send romantic messages to your loved
 
 ## Features
 
-- Sending Photos:** Surprise your loved one with special moments captured in pictures.
-- Video Sharing:** Share sweet and funny videos to create lasting memories.
-- Music Selection:** Create a playlist of meaningful songs to add a musical touch to your love.
-- Personalized Messages:** Write personalized messages to express your genuine feelings.
-- Intuitive Interface:** Simple and friendly user interface for a hassle-free sending experience.
+- **Sending Photos:** Surprise your loved one with special moments captured in pictures.
+- **Video Sharing:** Share sweet and funny videos to create lasting memories.
+- **Music Selection:** Create a playlist of meaningful songs to add a musical touch to your love.
+- **Personalized Messages:** Write personalized messages to express your genuine feelings.
+- **Intuitive Interface:** Simple and friendly user interface for a hassle-free sending experience.
 
 ## Screenshots
 
